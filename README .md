@@ -14,7 +14,7 @@ Presenting my JavaScript Quiz Website! Test your knowledge with a collection of 
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Quiz-Site/
+   (https://rashwanthashok.github.io/Quiz-site/)
 
     
 ## Getting Started
